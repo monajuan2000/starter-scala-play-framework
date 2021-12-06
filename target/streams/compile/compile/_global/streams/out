@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Admin\starter-scala-play-framework\conf\routes:2:1: Auto-application to `()` is deprecated. Supply the empty argument list `()` explicitly to invoke method getPersons,[0m
+[0m[[0m[31merror[0m] [0m[0mor remove the empty argument list from its definition (Java-defined methods are exempt).[0m
+[0m[[0m[31merror[0m] [0m[0mIn Scala 3, an unapplied method like this will be eta-expanded into a function.[0m
+[0m[[0m[31merror[0m] [0m[0mGET /persons controllers.HomeController.getPersons[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Admin\starter-scala-play-framework\conf\routes:2:1: Auto-application to `()` is deprecated. Supply the empty argument list `()` explicitly to invoke method getPersons,[0m
+[0m[[0m[31merror[0m] [0m[0mor remove the empty argument list from its definition (Java-defined methods are exempt).[0m
+[0m[[0m[31merror[0m] [0m[0mIn Scala 3, an unapplied method like this will be eta-expanded into a function.[0m
+[0m[[0m[31merror[0m] [0m[0mGET /persons controllers.HomeController.getPersons[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

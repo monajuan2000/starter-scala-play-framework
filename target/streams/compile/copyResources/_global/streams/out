@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Admin\starter-scala-play-framework\conf\application.conf,C:\Users\Admin\starter-scala-play-framework\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Admin\starter-scala-play-framework\conf\logback.xml,C:\Users\Admin\starter-scala-play-framework\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Admin\starter-scala-play-framework\conf\messages,C:\Users\Admin\starter-scala-play-framework\target\scala-2.13\classes\messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Admin\starter-scala-play-framework\conf\routes,C:\Users\Admin\starter-scala-play-framework\target\scala-2.13\classes\routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Admin\starter-scala-play-framework\conf\evolutions.default\1.sql,C:\Users\Admin\starter-scala-play-framework\target\scala-2.13\classes\evolutions.default\1.sql)[0m
