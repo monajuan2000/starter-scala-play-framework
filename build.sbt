@@ -7,9 +7,9 @@ lazy val root = (project in file("."))
     scalaVersion := "2.13.6",
     libraryDependencies ++= Seq(
       guice,
+      "com.typesafe.play" %% "play-slick" % "4.0.2",
+      "com.typesafe.play" %% "play-slick-evolutions" % "4.0.2",
       "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test,
-      "com.typesafe.play" %% "play-slick" % "5.0.0",
-      "com.typesafe.play" %% "play-slick-evolutions" % "5.0.0",
       "com.h2database" % "h2" % "1.4.199",
       specs2 % Test,
     ),
